@@ -1,0 +1,17 @@
+{
+  "name": "simple-torus-rendering",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "author": "Ryo Kuroyanagi",
+  "license": "MIT",
+  "dependencies": {
+    "@types/stats.js": "^0.17.0",
+    "gl-matrix": "^3.4.3",
+    "stats.js": "^0.17.0",
+    "typescript": "^4.5.5",
+    "vite": "^2.8.6"
+  }
+}
